@@ -1,4 +1,4 @@
 public class KarinaGlavan
 {
-    System.out.println() ; 
+    System.out.println() ;   
 }
